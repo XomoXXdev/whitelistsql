@@ -1,0 +1,1 @@
+Sziasztok! A legutóbbi videómban elkészítettem egy mysql alapú whitelist rendszert amit meg is ígértem, hogy kirakok nektek szóval itt is lenne az a bizonyos rendszer amiről beszéltem sok szerencsét hozzá
